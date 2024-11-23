@@ -1,0 +1,6 @@
+gspread
+vk_api
+smtplib
+email
+fuzzywuzzy
+python-dotenv
